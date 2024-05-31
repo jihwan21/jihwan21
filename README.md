@@ -5,12 +5,12 @@
 
 </div>
 
-### Hi, I'm JiHwan Bae 
+### Hi, I'm JiHwan Bae :wave:
 dreaming of becoming a **AI Developer, AI Researcher** specializing in Multimodal Learning.
 
 I'm currently interested in **Computer Vision**(3D, Diffusion) and **MultiModal**(Video-Text Retrieval, Image/Video Captioning).
 
-So I recently planned and started studying related papers and techniques! 
+So I recently planned and started studying related papers and techniques! :fire:
 
 
 
