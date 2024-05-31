@@ -1,4 +1,21 @@
-## Hi there 👋
+<!-- Header banner -->
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+
+</div>
+
+### Hi, I'm JiHwan Bae 
+dreaming of becoming a **AI Developer, AI Researcher** specializing in Multimodal Learning.
+
+I'm currently interested in **Computer Vision**(3D, Diffusion) and **MultiModal**(Video-Text Retrieval, Image/Video Captioning).
+
+So I recently planned and started studying related papers and techniques!
+
+
+<!-- Footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+</div>
 
 <!--
 **jihwan21/jihwan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
