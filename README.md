@@ -6,7 +6,8 @@
 </div>
 
 ### Hi, I'm JiHwan Bae :wave:
-dreaming of becoming a **AI Developer, AI Researcher** specializing in Multimodal Learning.
+
+I dream of becoming an **AI Developer** and **AI Researcher** specializing in CV & Multimodal Learning.
 
 I'm currently interested in **Computer Vision**(3D, Diffusion) and **MultiModal**(Video-Text Retrieval, Image/Video Captioning).
 
