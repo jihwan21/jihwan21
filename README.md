@@ -11,7 +11,7 @@ I dream of becoming an **AI Developer** and **AI Researcher** specializing in CV
 
 I'm currently interested in **Computer Vision**(3D, Diffusion) and **MultiModal**(Video-Text Retrieval, Image/Video Captioning).
 
-So I recently planned and started studying related papers and techniques! :fire:
+So I planned and started studying related papers and techniques! :fire:
 
 ### Contact  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/hwan11111@kookmin.ac.kr-C6538C?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
