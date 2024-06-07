@@ -9,7 +9,7 @@
 
 I dream of becoming an **AI Developer** and **AI Researcher** specializing in CV & Multimodal Learning.
 
-I'm currently interested in **Computer Vision**(3D, Diffusion etc) and **MultiModal**(Video-Text Retrieval, Image/Video Captioning).
+I'm currently interested in **Computer Vision**(3D, Diffusion, etc) and **MultiModal**(Video-Text Retrieval, Image/Video Captioning, etc).
 
 So I planned and started studying related papers and techniques! :fire:
 
